@@ -14,3 +14,5 @@ else:
 with open("scraped_text.txt", "w", encoding="utf-8") as file:
     file.write(text)
     print("Scraped text saved to 'scraped_text.txt'")
+
+print("I am Salman & i added this commit")
